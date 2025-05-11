@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "nodemon src/index.ts",
     "build": "tsc",
-    "start": "node dist/index.ts",
+    "start": "node --enable-source-maps dist/index.js",
+    "render-build": "npm install && npm run build",
+    "render-start": "node dist/index.js",
     "seed": "ts-node src/scripts/seedProducts.ts"
   },
   "keywords": [],
