@@ -1,0 +1,667 @@
+
+[
+
+  
+  
+  {
+    "name": "Ryzen 5 Gaming Upgrade Kit",
+    "description": "Combo including Ryzen 5 5600X processor + B550 motherboard + 16GB 3200MHz RAM",
+    "price": 499.99,
+    "stock": 5,
+    "category": "Components",
+    "brand": "AMD",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744304740/1ryzen_avqpwr_a5xc20.webp",
+    "specifications": {
+      "Processor": "Ryzen 5 5600X (6 cores)",
+      "Motherboard": "ASUS TUF B550-Plus",
+      "RAM": "16GB DDR4 3200MHz",
+      "Warranty": "2 years",
+      "Includes": "Wraith Stealth Cooler"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 0
+  },
+
+
+
+  {
+    "name": "NVIDIA RTX 4080 Founders Edition",
+    "description": "Graphics card with 16GB GDDR6X and DLSS 3",
+    "price": 1199.99,
+    "stock": 1,
+    "category": "Components",
+    "brand": "NVIDIA",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744368523/Nvidia-RTX-4080-Founders-Edition-Feature-Image-removebg-preview_wkthgr_h8yruf.webp",
+    "specifications": {
+      "GPU": "AD103-300-A1",
+      "VRAM": "16GB GDDR6X",
+      "Connectors": "1x HDMI 2.1, 3x DisplayPort 1.4a",
+      "Power": "16-pin PCIe Gen5",
+      "TDP": "320W"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 4
+  },
+
+
+
+  {
+    "name": "LG UltraGear 27GL850-B",
+    "description": "Monitor gaming 27\" QHD (2560x1440), 144Hz, 1ms, IPS, NVIDIA G-SYNC Compatible",
+    "price": 349.99,
+    "stock": 8,
+    "category": "Peripherals & Setup",
+    "brand": "LG",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744308158/D03-removebg-preview_zbkix6_gsx8uo.webp", 
+    "specifications": {
+      "Tamaño": "27 pulgadas",
+      "Resolución": "QHD (2560x1440)",
+      "Tasa de refresco": "144Hz",
+      "Tiempo de respuesta": "1ms (GTG)",
+      "Panel": "IPS",
+      "Adaptación": "NVIDIA G-SYNC Compatible",
+      "Conectores": "HDMI, DisplayPort, USB Hub",
+      "Garantía": "2 años"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 3
+  },
+
+
+  {
+    "name": "NZXT H510 Elite Case",
+    "description": "Mid-tower case with tempered glass front panel and RGB",
+    "price": 149.99,
+    "stock": 7,
+    "category": "Peripherals & Setup",
+    "brand": "NZXT",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744304963/1611150070-eyjwyxroijoibnp4dfwvywnjb3vudhnclzq0xc80mdawnzm2xc9wcm9qzwn0c1wvmthcl2fzc2v0c1wvmtdclzmwntncl2fknjkxndrmyzkyntjkmti2zmuzzjfly2i0mte3mwrjlte1ota2odmwoteucg5nin0nzxtqev86cdrz-arn0p2n7ruakmvjz_l4kfma_ouksxq.webp",
+    "specifications": {
+      "Form Factor": "ATX Mid-Tower",
+      "Fans": "2x Aer RGB 2 140mm",
+      "Bays": "2+1 SSD/HDD",
+      "PSU": "ATX (up to 180mm)",
+      "RGB": "Included controller"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 0
+  },
+  {
+    "name": "Samsung 34\" QHD Curved Monitor",
+    "description": "Ultrawide 3440x1440 100Hz monitor with Quantum Dot technology",
+    "price": 449.99,
+    "stock": 4,
+    "category": "Peripherals & Setup",
+    "brand": "Samsung",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744304962/71TK9MO5ydL-removebg-preview_ijgict_lpme3g.webp",
+    "specifications": {
+      "Panel": "1500R Curved VA",
+      "Resolution": "3440x1440 QHD",
+      "Refresh Rate": "100Hz",
+      "Coverage": "125% sRGB",
+      "Connectors": "2x HDMI, 1x DisplayPort"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 1
+  },
+  
+  
+  {
+    "name": "LG UltraGear 27GL850-B",
+    "description": "Monitor gaming 27\" QHD (2560x1440), 144Hz, 1ms, IPS, NVIDIA G-SYNC Compatible",
+    "price": 349.99,
+    "stock": 8,
+    "category": "Peripherals & Setup",
+    "brand": "LG",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744308158/D03-removebg-preview_zbkix6_gsx8uo.webp", 
+    "specifications": {
+      "Tamaño": "27 pulgadas",
+      "Resolución": "QHD (2560x1440)",
+      "Tasa de refresco": "144Hz",
+      "Tiempo de respuesta": "1ms (GTG)",
+      "Panel": "IPS",
+      "Adaptación": "NVIDIA G-SYNC Compatible",
+      "Conectores": "HDMI, DisplayPort, USB Hub",
+      "Garantía": "2 años"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 3
+  },
+  
+
+
+
+  {
+    "name": "MSI RTX 4060 Ventus 2X",
+    "description": "Budget option with Ada architecture",
+    "price": 299.99,
+    "stock": 10,
+    "category": "Components",
+    "brand": "MSI",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744368822/64750-producto-pd-removebg-preview_jzlmpf_k48f9i.webp",
+    "specifications": {
+      "GPU": "Ada Lovelace",
+      "VRAM": "8GB GDDR6",
+      "Bus": "128-bit",
+      "Power Consumption": "115W",
+      "Form Factor": "Dual-fan"
+    },
+    "sellerType": "official"
+  },
+
+
+  {
+    "name": "Keychron K8 Pro Keyboard",
+    "description": "Wireless mechanical keyboard 75% layout with Gateron switches",
+    "price": 109.99,
+    "stock": 8,
+    "category": "Peripherals & Setup",
+    "brand": "Keychron",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744307853/keychronk8prowirelessmechanicalkeyboardisolayoutversion-1666171153391-1680852124976-removebg-preview_aq9mcy_z2cwgx.webp",
+    "specifications": {
+      "Switch": "Gateron G Pro (Red/Brown/Blue)",
+      "Connectivity": "Bluetooth 5.1 + Cable",
+      "Battery": "4000mAh (80h use)",
+      "Keycaps": "PBT double-shot",
+      "Compatibility": "Windows/Mac"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 1
+  },
+  {
+    "name": "Corsair RM750x",
+    "description": "750W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "price": 119.99,
+    "stock": 15,
+    "category": "Components",
+    "brand": "Corsair",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744307853/CP-9020199-AR-1-removebg-preview_xzaezk_sic0sk.webp", 
+    "specifications": {
+      "Wattage": "750W",
+      "Efficiency": "80+ Gold",
+      "Modular": "Fully modular",
+      "Connectors": "PCIe, SATA, Molex",
+      "Warranty": "10 years"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 2
+  },
+  {
+    "name": "Corsair RM850x Power Supply",
+    "description": "80+ Gold certified fully modular PSU with hydro-dynamic bearing fan",
+    "price": 129.99,
+    "stock": 6,
+    "category": "Components",
+    "brand": "Corsair",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744307853/c2ca60386357c75e779a89e286622c23-removebg-preview_ls4zxm_dnrjzw.webp",
+    "specifications": {
+      "Power": "850W 80+ Gold",
+      "Modular": "Fully modular",
+      "Fan": "135mm ML hydro-dynamic",
+      "Protections": "OVP/UVP/OPP/SCP",
+      "Warranty": "10 years"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 2
+  },
+  
+  {
+    "name": "Intel Core i7-13700KF",
+    "description": "16 cores without integrated graphics",
+    "price": 419.99,
+    "stock": 9,
+    "category": "Components",
+    "brand": "Intel",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744369221/micro-intel-core-i713700kf-scooler-svideo-s1700-0-removebg-preview_gstq2f_wd6mhw.webp",
+    "specifications": {
+      "Cores": "16 (8P+8E)",
+      "Threads": "24",
+      "Frequency": "3.4-5.4GHz",
+      "Socket": "LGA1700",
+      "Overclocking": "Unlocked"
+    },
+    "sellerType": "official"
+  },
+  
+
+
+  {
+    "name": "Lenovo ThinkPad X1 Carbon Laptop",
+    "description": "Professional ultrabook with 14\" 4K display and backlit keyboard",
+    "price": 1599.99,
+    "stock": 3,
+    "category": "Laptops",
+    "brand": "Lenovo",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744308158/StorageReview-Lenovo-Thinkpad-X1-Carbon-Gen12-3-removebg-preview_nfx3zv_ydbdwp.webp",
+    "specifications": {
+      "Processor": "Intel i7-1260P",
+      "RAM": "16GB LPDDR5",
+      "Storage": "1TB NVMe SSD",
+      "Display": "14\" 4K 500nits",
+      "Weight": "1.12kg"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 3
+  },
+  
+  
+  
+  
+  {
+    "name": "Huawei MatePad Pro 12.6\" Tablet",
+    "description": "Premium tablet with OLED display and 2nd gen M-Pencil",
+    "price": 699.99,
+    "stock": 3,
+    "category": "Mobile Devices",
+    "brand": "Huawei",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744304963/D_NQ_NP_2X_894098-MLU69483827460_052023-F-removebg-preview_rs3akh_qofnlq.webp",
+    "specifications": {
+      "Display": "12.6\" OLED 2560x1600",
+      "Chipset": "Kirin 9000E",
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Support": "M-Pencil (included)"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 1
+  },
+  
+  {
+    "name": "Logitech MX Master 3S Mouse",
+    "description": "Ergonomic productivity mouse with electromagnetic scroll",
+    "price": 99.99,
+    "stock": 9,
+    "category": "Peripherals & Setup",
+    "brand": "Logitech",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744308158/logitech-mx-master-3s-intro-removebg-preview_q1t1ar_btlgku.webp",
+    "specifications": {
+      "Sensor": "Darkfield 8000DPI",
+      "Buttons": "7 programmable",
+      "Scroll": "MagSpeed electromagnetic",
+      "Battery": "70 days (USB-C charging)",
+      "Multi-Device": "Up to 3 devices"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 3
+  },
+  
+  {
+    "name": "ASUS ROG Swift 360Hz Gaming Monitor",
+    "description": "24.5\" Full HD monitor with ultra-fast refresh rate for eSports",
+    "price": 699.99,
+    "stock": 2,
+    "category": "Peripherals & Setup",
+    "brand": "ASUS",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744308159/3290127_f2d25578f477-removebg-preview_oq32mj_lx7dul.webp",
+    "specifications": {
+      "Panel": "24.5\" IPS 1920x1080",
+      "Refresh Rate": "360Hz",
+      "Response Time": "1ms GTG",
+      "Adaptive-Sync": "NVIDIA Reflex Analyzer",
+      "Stand": "Height/swivel adjustment"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 4
+  },
+  
+  
+  
+  
+  
+  
+  
+  {
+    "name": "RTX 3060 Ti Founders Edition",
+    "description": "NVIDIA graphics card with 8GB GDDR6 and Ampere architecture",
+    "price": 399.99,
+    "stock": 3,
+    "category": "Components",
+    "brand": "NVIDIA",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744304963/D_NQ_NP_2X_919216-MLA45373756077_032021-F-removebg-preview_1_oemzzy_wjs1qt.webp",
+    "specifications": {
+      "GPU": "GA104-200-A1",
+      "VRAM": "8GB GDDR6",
+      "Connectors": "1x HDMI 2.1, 3x DisplayPort 1.4a",
+      "Power": "1x 12-pin PCIe",
+      "Length": "242 mm"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 0
+  },
+  {
+    "name": "Sennheiser HD 660S2 Headphones",
+    "description": "Reference open-back headphones with 300Ω transducers",
+    "price": 499.99,
+    "stock": 4,
+    "category": "Peripherals & Setup",
+    "brand": "Sennheiser",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744368523/design-medium-removebg-preview_xc7g9k_bvbu0b.webp",
+    "specifications": {
+      "Type": "Dynamic open-back",
+      "Impedance": "300Ω",
+      "Frequency Response": "8-41,500Hz",
+      "Sensitivity": "104dB SPL (1Vrms)",
+      "Includes": "3m and 1.8m cables"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 5
+  },
+  
+  {
+    "name": "ASUS ProArt PA278QV Monitor",
+    "description": "27\" 1440p color-accurate monitor for design professionals",
+    "price": 349.99,
+    "stock": 5,
+    "category": "Peripherals & Setup",
+    "brand": "ASUS",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744307853/tsn23gafmq0giloq_setting_xxx_0_90_end_2000-removebg-preview_gruihe_horeql.webp",
+    "specifications": {
+      "Panel": "27\" IPS 2560x1440",
+      "Color": "100% sRGB/Rec.709",
+      "Delta-E": "<2 factory calibrated",
+      "Connectors": "HDMI/DP/USB-C/USB Hub",
+      "Adjustment": "Height, swivel, pivot"
+    },
+    "sellerType": "fictional",
+    "fictionalSellerIndex": 2
+  },
+  
+  {
+    "name": "Shure SM7B Microphone",
+    "description": "Professional dynamic vocal microphone used in studios",
+    "price": 399.99,
+    "stock": 2,
+    "category": "Peripherals & Setup",
+    "brand": "Shure",
+    "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744368523/750_750-SHURE_-_SM7B_-_T1121805024_-_6-removebg-preview_giqx82_colyxe.webp",
+    "specifications": {
+      "Type": "Cardioid dynamic",
+      "Frequency Response": "50Hz-20kHz",
+      "Output": "-59dBV/Pa",
+      "Weight": "765g",
+      "Includes": "Anti-vibration mount"
+    },
+      "sellerType": "fictional",
+      "fictionalSellerIndex": 5
+    },
+  
+
+
+      {
+        "name": "ASUS ROG Strix RTX 4070 Ti OC",
+        "description": "Overclocked version with Axial-tech cooling",
+        "price": 899.99,
+        "stock": 7,
+        "category": "Components",
+        "brand": "ASUS",
+        "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744368523/45B3F0A3-98F3-4940-A420-96384E8A4DC3-removebg-preview_j6rl3q_xnvzla.webp",
+        "specifications": {
+          "GPU": "Ada Lovelace",
+          "VRAM": "12GB GDDR6X",
+          "Bus": "192-bit",
+          "Power Consumption": "285W",
+          "Cooling": "3x Fans"
+        },
+        "sellerType": "official"
+      },
+
+
+
+
+
+      {
+        "name": "Gigabyte RX 7800 XT Gaming OC",
+        "description": "1440p graphics card with Windforce 3X Cooling",
+        "price": 549.99,
+        "stock": 8,
+        "category": "Components",
+        "brand": "Gigabyte",
+        "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744368822/imagen_2024-07-08_163807857-removebg-preview_d4zweq_svn2d6.webp",
+        "specifications": {
+          "GPU": "RDNA 3",
+          "VRAM": "16GB GDDR6",
+          "Bus": "256-bit",
+          "Power Consumption": "263W",
+          "RGB": "Fusion 2.0"
+        },
+        "sellerType": "official"
+      },
+
+      {
+        "name": "Intel Core i9-14900K",
+        "description": "Flagship processor 24 cores/32 threads",
+        "price": 599.99,
+        "stock": 6,
+        "category": "Components",
+        "brand": "Intel",
+        "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744368822/Procesador-Intel-Core-i9-14900K-6-Ghz-Raptor-Lake-1700-Sin-Cooler_47082_1-removebg-preview_jm9dy0_mstw8b.webp",
+        "specifications": {
+          "Cores": "24 (8P+16E)",
+          "Threads": "32",
+          "Frequency": "3.2-6.0GHz",
+          "Socket": "LGA1700",
+          "TDP": "125W"
+        },
+        "sellerType": "official"
+      },
+      {
+        "name": "AMD Ryzen 9 7950X3D",
+        "description": "Processor with 3D V-Cache technology",
+        "price": 699.99,
+        "stock": 4,
+        "category": "Components",
+        "brand": "AMD",
+        "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744368822/CPU671-removebg-preview_s30xkg_c0mnop.webp",
+        "specifications": {
+          "Cores": "16",
+          "Threads": "32",
+          "Frequency": "4.2-5.7GHz",
+          "Socket": "AM5",
+          "L3 Cache": "128MB"
+        },
+        "sellerType": "official"
+      },
+
+
+
+
+        {
+          "name": "Lenovo ThinkPad X1 Carbon Gen 11",
+          "description": "Business ultrabook with legendary keyboard and MIL-STD certification",
+          "price": 1799.99,
+          "stock": 7,
+          "category": "Laptops",
+          "brand": "Lenovo",
+          "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744369221/618coR0UW5L-removebg-preview_xfephh_gxjvmk.webp",
+          "specifications": {
+            "Processor": "Intel i7-1365U",
+            "RAM": "16GB LPDDR5",
+            "Storage": "512GB NVMe",
+            "Weight": "1.12kg",
+            "Battery Life": "15h"
+          },
+          "sellerType": "official"
+        },
+        {
+          "name": "HP Spectre x360 14",
+          "description": "2-in-1 convertible with OLED display and gem-cut design",
+          "price": 1599.99,
+          "stock": 6,
+          "category": "Laptops",
+          "brand": "HP",
+          "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744369221/FEED_04-2-removebg-preview_p4uvwh_rpjzkn.webp",
+          "specifications": {
+            "Processor": "Intel i7-1355U",
+            "RAM": "16GB DDR4",
+            "Storage": "1TB NVMe",
+            "Display": "14\" 3K OLED touch",
+            "Battery": "Up to 16h"
+          },
+          "sellerType": "official"
+        },
+
+
+        {
+          "name": "Acer Swift 3 SF314-512",
+          "description": "Ultra-light laptop for productivity",
+          "price": 799.99,
+          "stock": 10,
+          "category": "Laptops",
+          "brand": "Acer",
+          "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744369221/A1NX.K0FEK.001_2_Supersize-removebg-preview_cjobes_jzegmz.webp",
+          "specifications": {
+            "Processor": "Intel i5-1240P",
+            "RAM": "8GB LPDDR4",
+            "Storage": "512GB NVMe",
+            "Weight": "1.25kg",
+            "Battery Life": "12h"
+          },
+          "sellerType": "official"
+        },
+            
+            {
+              "name": "Razer BlackWidow V4 Pro",
+              "description": "Mechanical gaming keyboard with control dial and magnetic wrist rest",
+              "price": 229.99,
+              "stock": 5,
+              "category": "Peripherals & Setup",
+              "brand": "Razer",
+              "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744377178/design-medium-removebg-preview_4_bnte8k_u2hown.webp",
+              "specifications": {
+                "Switch": "Razer Yellow (linear)",
+                "RGB": "Chroma per-key",
+                "Keys": "Programmable + 4 macros",
+                "Dial": "Touch media control",
+                "Connection": "USB/2.4GHz"
+              },
+              "sellerType": "official"
+            },
+            {
+              "name": "Logitech G Pro X Superlight 2",
+              "description": "Ultralight wireless gaming mouse (60g) with HERO 2 sensor",
+              "price": 159.99,
+              "stock": 7,
+              "category": "Peripherals & Setup",
+              "brand": "Logitech",
+              "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744377178/design-large-removebg-preview_1_rysmbg_vj04id.webp",
+              "specifications": {
+                "Sensor": "HERO 2 (32,000 DPI)",
+                "Weight": "60g",
+                "Switches": "Optical (80M clicks)",
+                "Battery": "95 hours",
+                "Polling Rate": "2000Hz"
+              },
+              "sellerType": "official"
+            },
+           
+            {
+              "name": "Secretlab Titan Evo 2023",
+              "description": "Ergonomic gaming chair with magnetic lumbar support",
+              "price": 529.99,
+              "stock": 3,
+              "category": "Peripherals & Setup",
+              "brand": "Secretlab",
+              "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744377178/41UZRUxHa4L-removebg-preview_a2xrfl_jpnac3.webp",
+              "specifications": {
+                "Weight Capacity": "130kg",
+                "Adjustments": "4D (arms/back/height)",
+                "Material": "SoftWeave synthetic leather",
+                "Recline": "165°",
+                "Warranty": "5 years"
+              },
+              "sellerType": "official"
+            },
+
+            {
+              "name": "Razer Iskur X",
+              "description": "Gaming chair with adjustable lumbar support and ergonomic design",
+              "price": 399.99,
+              "stock": 4,
+              "category": "Peripherals & Setup",
+              "brand": "Razer",
+              "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744377178/117_18-09-2022-06-09-47-iskur2-removebg-preview_g8kpac_chsbjj.webp",
+              "specifications": {
+                "Weight Capacity": "136kg",
+                "Lumbar": "Independent adjustment",
+                "Material": "Reinforced PVC",
+                "Recline": "152°",
+                "Wheels": "Soft silicone (65mm)"
+              },
+              "sellerType": "official"
+            },
+
+            {
+              "name": "Noblechairs Hero",
+              "description": "Premium chair with real leather accents and cold-cured foam",
+              "price": 489.99,
+              "stock": 2,
+              "category": "Peripherals & Setup",
+              "brand": "Noblechairs",
+              "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744377389/66f75b3cb80cdecf0d67722bcc7a6fda-removebg-preview_eoawm4_yqyfkb.webp",
+              "specifications": {
+                "Weight Capacity": "150kg",
+                "Frame": "Reinforced steel",
+                "Material": "PU Leather + leather accents",
+                "Height": "Pneumatic adjustment (10cm)",
+                "Warranty": "2 years"
+              },
+              "sellerType": "official"
+            },
+           
+
+
+            {
+              "name": "iPhone 15 Pro Max",
+              "description": "Apple flagship with 48MP camera, Dynamic Island and A17 Pro chip",
+              "price": 1199.99,
+              "stock": 5,
+              "category": "Mobile Devices",
+              "brand": "Apple",
+              "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744377388/50947-producto-iphone-15-pro-max-removebg-preview_hb66f0_ed8zdf.webp",
+              "specifications": {
+                "Display": "6.7\" Super Retina XDR (120Hz)",
+                "Chip": "A17 Pro (3nm)",
+                "RAM": "8GB",
+                "Storage": "256GB/512GB/1TB",
+                "Cameras": "Triple: 48MP+12MP+12MP"
+              },
+              "sellerType": "official"
+            },
+            {
+              "name": "Samsung Galaxy S24 Ultra",
+              "description": "Smartphone with built-in S Pen, 200MP camera and Snapdragon 8 Gen 3",
+              "price": 1299.99,
+              "stock": 4,
+              "category": "Mobile Devices",
+              "brand": "Samsung",
+              "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744377530/S9280-256TG_1-removebg-preview_zggjsc_bxcwnb.webp",
+              "specifications": {
+                "Display": "6.8\" Dynamic AMOLED 2X (120Hz)",
+                "Processor": "Snapdragon 8 Gen 3",
+                "RAM": "12GB",
+                "Battery": "5000mAh",
+                "S Pen": "Included"
+              },
+              "sellerType": "official"
+            },
+            {
+              "name": "Google Pixel 8 Pro",
+              "description": "Phone with built-in AI, 50MP camera and Tensor G3",
+              "price": 999.99,
+              "stock": 6,
+              "category": "Mobile Devices",
+              "brand": "Google",
+              "image": "https://res.cloudinary.com/dnnxgzqzv/image/upload/v1744377531/71XEjCc4yLL-removebg-preview_ju2jah_h2hcfu.webp",
+              "specifications": {
+                "Display": "6.7\" LTPO OLED (120Hz)",
+                "Chip": "Google Tensor G3",
+                "AI": "Gemini Nano (on-device)",
+                "Cameras": "50MP+48MP+48MP",
+                "Updates": "7 years of support"
+              },
+              "sellerType": "official"
+            }
+
+            
+
+]

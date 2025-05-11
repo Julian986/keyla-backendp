@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", // Usa las últimas características de JavaScript
+    "module": "NodeNext", // Usa módulos ES con resolución NodeNext
+    "moduleResolution": "NodeNext", // Resolución de módulos para Node.js
+    "rootDir": "./src", // Carpeta raíz del código fuente
+    "outDir": "./dist", // Carpeta de salida para los archivos compilados
+    "strict": true, // Habilita todas las verificaciones de tipo estrictas
+    "esModuleInterop": true, // Permite la interoperabilidad entre módulos CommonJS y ES
+    "skipLibCheck": true, // Omite la verificación de tipos en archivos de declaración
+    "forceConsistentCasingInFileNames": true, // Fuerza el uso consistente de mayúsculas/minúsculas en nombres de archivos
+    "baseUrl": ".", // Permite el uso de rutas absolutas en las importaciones
+    "resolveJsonModule": true,
+    "paths": {
+      "@/*": ["./src/*"] // Configura alias para importaciones
+    }
+  },
+  "include": ["src/**/*"], // Incluye todos los archivos en src
+  "exclude": ["node_modules", "dist"] // Excluye node_modules y la carpeta de salida
+}
