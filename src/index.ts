@@ -55,7 +55,7 @@ app.use("/chat", chatRoutes);
 app.set("io", io);
 
 
-// Iniciar servidor
+// Iniciar servidors
 server.listen(PORT, () => {
   console.log(`Servidor corriendo en http://localhost:${PORT}`);
 });
