@@ -10,8 +10,15 @@ import { v4 as uuidv4 } from 'uuid';
 import validator from 'validator';
 import cloudinary from "../config/cloudinaryConfig";
 import mongoose from "mongoose";
-import fetch from "node-fetch";
+/* import fetch from "node-fetch"; */
+// Declara un tipo para los parámetros de fetch
+type FetchParams = Parameters<typeof import('node-fetch').default>;
 
+// Implementación con tipos explícitos
+const fetch = async (...args: FetchParams) => {
+  const { default: fetch } = await import('node-fetch');
+  return fetch(...args);
+};
 
 export const getAllProducts = async (req: Request, res: Response): Promise<void> => {
   try {
