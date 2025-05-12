@@ -1,11 +1,11 @@
 import { Server } from "socket.io";
 import http from "http";
-import Chat, { IChat } from "@/models/chat";
+//import Chat, { IChat } from "@/models/chat";
 import Message from "@/models/message";
 import mongoose from "mongoose";
 import { Types } from "mongoose";
 import jwt from "jsonwebtoken";
-import { User } from "@/models/user";
+import { User } from "../models/user";
 
 export const configureSocket = (server: http.Server) => {
   const io = new Server(server, {

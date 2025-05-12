@@ -1,8 +1,8 @@
 import { Request, Response } from "express";
-import Chat from "@/models/chat";
-import Message from "@/models/message";
-import { Product } from "@/models/product";
-import { AsyncHandler } from "@/types/express";
+import Chat from "../models/chat";
+import Message from "../models/message";
+import { Product } from "../models/product";
+import { AsyncHandler } from "../types/express";
 import { Types } from "mongoose";
 
 // 1. Verificar existencia de chat

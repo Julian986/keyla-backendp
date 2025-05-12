@@ -9,7 +9,7 @@ import {
   archiveChat,
   getChatInfo
 } from "../controllers/chatController"
-import auth from "@/middleware/auth";
+import auth from "../middleware/auth"
 
 const router = express.Router();
 

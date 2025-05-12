@@ -1,7 +1,7 @@
 import { Request, Response} from "express";
 import { User } from "../models/user";
 import exp from "constants";
-import { Product } from "@/models/product";
+import { Product } from "../models/product";
 import fs from "fs";
 import path from "path";
 import mongoose from "mongoose";
