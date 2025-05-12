@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     "target": "ESNext", // Usa las últimas características de JavaScript
-    "module": "NodeNext", // Usa módulos ES con resolución NodeNext
-    "moduleResolution": "NodeNext", // Resolución de módulos para Node.js
+    "module": "CommonJS", // Usa módulos ES con resolución NodeNext
+    "moduleResolution": "node", // Resolución de módulos para Node.js
     "rootDir": "./src", // Carpeta raíz del código fuente
     "outDir": "./dist", // Carpeta de salida para los archivos compilados
     "strict": true, // Habilita todas las verificaciones de tipo estrictas
