@@ -1,7 +1,7 @@
 import { Server } from "socket.io";
 import http from "http";
 //import Chat, { IChat } from "@/models/chat";
-import Message from "@/models/message";
+import Message from "../models/message";
 import mongoose from "mongoose";
 import { Types } from "mongoose";
 import jwt from "jsonwebtoken";
